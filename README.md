@@ -1,10 +1,7 @@
-# News Aggregator
-
-This is a news aggregator project built using the MERN stack (MongoDB, Express, React, Node.js) and the NewsAPI.org API. The project allows users to view news articles from various sources.
 
 # 📰 News Aggregator Web App
 
-A dynamic and responsive web application that aggregates real-time news articles from multiple categories and countries. Built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and styled with **Tailwind CSS**.
+A dynamic and responsive web application that aggregates real-time news articles from multiple categories and countries. Built using the **MERN stack** (MongoDB,Express.js, React.js, Node.js) and styled with **Tailwind CSS**.
 
 ## 🚀 Features
 
